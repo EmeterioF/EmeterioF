@@ -1,5 +1,5 @@
 ## WELCOME TO MY DOMAIN ... ✨INFINITE VOID✨ 
-![Codewars](https://github.r2v.ch/codewars?user=Emetz_The_Great)
+![Codewars](https://github.r2v.ch/codewars?user=Emetz%20_The_Great)
 <!-- <img width=800px border-radius = 50px src="https://github.com/user-attachments/assets/6d22f636-8f84-4d8d-8c53-b68c39a6fecc"> -->
 <br>
 I am <b>Emeterio II. B. Figuracion</b>, I am a student at New Era University taking BS in Information Technology as a Program. 🏯  
