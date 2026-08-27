@@ -1,10 +1,11 @@
 <div align="center">
 
 ## WELCOME TO MY DOMAIN ... ✨INFINITE VOID✨ 
+<img width=800px border-radius = 50px src="https://github.com/user-attachments/assets/6d22f636-8f84-4d8d-8c53-b68c39a6fecc"> 
+<br>
 ![Codewars](https://github.r2v.ch/codewars?user=Emetz%20_The_Great&top_languages=true)
 <br>
 <img src="https://www.codewars.com/users/Emetz%20_The_Great/badges/large">
-<img width=600px border-radius = 50px src="https://github.com/user-attachments/assets/6d22f636-8f84-4d8d-8c53-b68c39a6fecc"> 
 </div>
 
 ---
